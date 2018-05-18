@@ -137,7 +137,7 @@ void ejercicio2(){
     }
 
 	cout<<"---------------------------"<<endl;
-		cout<<"El cociente es : ";//<<tablero[size][co][size]<<endl;
+		cout<<"El cociente es : ";//<<tablero[1][3][size]<<endl;
 	//cout<<a<<endl;
      
 
